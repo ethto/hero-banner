@@ -20,12 +20,14 @@ body {
 
 .banner-content {
   padding: 0 1rem;
+  padding-top: 1em;
   bottom: 1rem;
   left: 50%;
   position: absolute;
   max-width: 50em;
   transform: translateX(-50%);
   width: 100%;
+  margin:
 }
 
 img {
@@ -35,6 +37,7 @@ img {
 span {
   background-color: rgba(0, 0, 0, .5);
 }
+
 h2 {
   font-size: 4rem;
   color: #fff;
@@ -45,5 +48,5 @@ h2 {
 p {
   font-size: 2rem;
   font-style: italic;
-  margin-bottom: .5em;
+  margin: .5em 0;
 }
