@@ -27,7 +27,7 @@ body {
   max-width: 50em;
   transform: translateX(-50%);
   width: 100%;
-  margin: 1em 1em .5em 1em;
+  margin: 1em 1em .5em;
 }
 
 .img-flex {
